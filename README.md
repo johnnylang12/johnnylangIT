@@ -1,4 +1,4 @@
-<h1>Hi, I'm Johnny, an <a href="(https://www.linkedin.com/in/johnny-lang/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Johnny, an <a href="(https://www.linkedin.com/in/johnny-lang/)">IT Support Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
